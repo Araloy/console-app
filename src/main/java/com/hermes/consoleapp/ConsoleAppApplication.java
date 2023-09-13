@@ -8,6 +8,7 @@ public class ConsoleAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConsoleAppApplication.class, args);
+		System.out.println("No mind to think");
 	}
 
 }
